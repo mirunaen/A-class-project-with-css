@@ -1,0 +1,20 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #00F;
+    background-color: #CFC;
+    font-size: 16px;
+}
+
+h1{
+    color: #F00;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+
+}
+
+h2{
+    color: #A00;
+    background-color: #CFC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
